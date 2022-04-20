@@ -384,14 +384,6 @@ footer {
   margin-bottom: 30px;
 }
 
-.projects__item:nth-child(3n) {
-  margin-right: 0;
-}
-
-.projects__item:nth-child(n + 7) {
-  margin-bottom: 0;
-}
-
 .group__item {
   border: 1px solid #eee;
   text-align: left;
